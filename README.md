@@ -54,6 +54,8 @@ Proyectos que utilizan el protocolo **ESP-NOW** para la comunicación inalámbri
 ---
 
 ## 🧩 División de Hardware
+![image](https://github.com/user-attachments/assets/22527301-c5ec-4cb7-b4f1-3cdaf1185234)
+
 
 ### 🔹 [PCBs y Hardware Layout](proyectos_kicad)
 
