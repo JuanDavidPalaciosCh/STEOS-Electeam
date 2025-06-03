@@ -53,7 +53,7 @@ Proyectos que utilizan el protocolo **ESP-NOW** para la comunicación inalámbri
 
 ---
 
-## 🧩 Proyectos de Hardware en KiCad
+## 🧩 División de Hardware
 
 ### 🔹 [PCBs y Hardware Layout](proyectos_kicad)
 
