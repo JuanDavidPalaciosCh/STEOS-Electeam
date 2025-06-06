@@ -27,7 +27,7 @@ Desarrollado con el framework **Dash**, este dashboard permite visualizar datos 
 
 Desarrollado con **FastAPI**, permite hacer peticiones GET y POST para el manejo de los datos y poder acceder a ellos de forma remota.
 
-📁 Ruta: `dashboard/dashboard_python_dash/app`
+📁 Ruta: `dashboard/dashboard_python_dash/Data/API`
 
 ---
 
